@@ -14,6 +14,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 --This is a list
-- [ x ] List Item 1
-- [ ]List Item 2
+- [x] List Item 2
+- [ ] List Item 3
 
